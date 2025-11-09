@@ -1,0 +1,30 @@
+# ======================
+# Backend ignores
+# ======================
+node_modules/
+.env
+.DS_Store
+.next
+/build
+/dist
+npm-debug.log
+yarn-error.log
+
+# ======================
+# Frontend ignores
+# ======================
+# frontend/node_modules/
+# frontend/.env
+# frontend/.next
+# frontend/out
+# frontend/.DS_Store
+# frontend/npm-debug.log
+# frontend/yarn-error.log
+
+# ======================
+# Root-level ignores
+# ======================
+.DS_Store
+.env
+npm-debug.log
+yarn-error.log
