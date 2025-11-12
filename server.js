@@ -54,7 +54,7 @@ app.get('/', (req, res) => {
   res.send('Hello World! Linkedin project ');
 })
 app.get("/test", (req,res)=>{
-  res.json({message:" Final test hai ye only  test  Api is working properly !"});
+  res.json({message:" Final test hai ye only  test  Api is working properly jwwjdhwjhjwhdjwhwhdjwhdjwhjd !"});
 })
 
 app.listen(port, () => {
